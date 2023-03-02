@@ -1,5 +1,5 @@
 # Avetik-GInosyan
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://www.facebook.com/groups/qaforeveryone/)
+[![QA + For everyone](https://user-images.githubusercontent.com/106993195/222576760-e49b4739-1e39-4c57-b109-94f9192c4559.gif)](https://www.facebook.com/groups/qaforeveryone/)
 ## I'm a Manual QA Engineer. 
 ## A creator of "Avetik Ginosyan QA+  For everyone" Facebook group 
 ## My CV
@@ -29,7 +29,7 @@
 - [Test-Suites and Test-Cases](https://github.com/MYNAME/test-cases)
 - [Bug-Reports](https://github.com/MYNAME/bug-reports)
 - [SQL Queries](https://github.com/MYNAME/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/MYNAME/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/qaforeveryone?igshid=ZDdkNTZiNTM=)
