@@ -1,7 +1,7 @@
 # Avetik-GInosyan
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://www.facebook.com/groups/qaforeveryone/)
-## I'm a QA Engineer. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a Manual QA Engineer. 
+## A creator of "Avetik Ginosyan QA+  For everyone" Facebook group 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1qJP3sFULlpkTmKvAxf0Yv_5jFTfmaRBl/view?usp=share_link)
 
@@ -25,10 +25,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Checklists](https://github.com/MYNAME/checklist)
+- [Test-Suites and Test-Cases](https://github.com/MYNAME/test-cases)
+- [Bug-Reports](https://github.com/MYNAME/bug-reports)
+- [SQL Queries](https://github.com/MYNAME/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
