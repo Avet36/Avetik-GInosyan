@@ -1,7 +1,7 @@
 # Avetik-GInosyan
 [![QA + For everyone](https://user-images.githubusercontent.com/106993195/222576760-e49b4739-1e39-4c57-b109-94f9192c4559.gif)](https://www.facebook.com/groups/qaforeveryone/)
 ## I'm a Manual QA Engineer. 
-## I'm creator of the Facebook group [QA+ For everyone](https://www.facebook.com/groups/qaforeveryone/) 
+## I'm a creator of the [QA+ For everyone](https://www.facebook.com/groups/qaforeveryone/) Facebook group
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1qJP3sFULlpkTmKvAxf0Yv_5jFTfmaRBl/view?usp=share_link)
 
